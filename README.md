@@ -15,7 +15,7 @@ This project aimed to create a capable chatbot that could engage in natural lang
 
 **Learning Outcomes:**
 
-Through this project, we developed a robust understanding of:
+Through this project, we developed a robust understanding of:<br>
 *The architecture and functioning of GPT-2 and similar transformer-based models.<br>
 *Techniques to fine-tune and optimize chatbots for specific use cases.<br>
 *Advanced methods like WaveNet for improving speech synthesis and conversational flow.
