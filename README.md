@@ -1,6 +1,6 @@
 # Crafting Own ChatGPT
 
-Welcome to the repository for Crafting Own ChatGPT, a project undertaken as part of the Seasons of Code initiative with the Web and Coding Club (WnCC) at IIT Bombay. This project spanned from May 2024 to July 2024 and focused on building a simplified version of OpenAI’s GPT-2 model.
+Welcome to the repository for Crafting Own ChatGPT, a project undertaken as part of the **Seasons of Code** initiative with the **Web and Coding Club** (WnCC) at **IIT Bombay**. This project spanned from May 2024 to July 2024 and focused on building a simplified version of OpenAI’s GPT-2 model.
 
 ## Project Overview
 
